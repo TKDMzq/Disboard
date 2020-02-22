@@ -28,6 +28,7 @@
 		"eamodio.gitlens",
 		"dbaeumer.vscode-eslint",
 		"esbenp.prettier-vscode",
+		"mikestead.dotenv"
 	],
 
 	// Uncomment the next line if you want start specific services in your Docker Compose config.
